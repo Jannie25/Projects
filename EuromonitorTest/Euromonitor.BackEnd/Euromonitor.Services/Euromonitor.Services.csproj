@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Euromonitor.JWTHelper\Euromonitor.JWTHelper.csproj" />
+    <ProjectReference Include="..\Euromonitor.Models\Euromonitor.Models.csproj" />
+    <ProjectReference Include="..\Euromonitor.Repository\Euromonitor.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

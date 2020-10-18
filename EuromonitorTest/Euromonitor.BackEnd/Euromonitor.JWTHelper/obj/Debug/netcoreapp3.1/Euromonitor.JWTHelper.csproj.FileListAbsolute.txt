@@ -1,0 +1,12 @@
+C:\Projects\Euromonitor.Authentication\Euromonitor.JWTHelper\bin\Debug\netcoreapp3.1\Euromonitor.JWTHelper.deps.json
+C:\Projects\Euromonitor.Authentication\Euromonitor.JWTHelper\bin\Debug\netcoreapp3.1\Euromonitor.JWTHelper.dll
+C:\Projects\Euromonitor.Authentication\Euromonitor.JWTHelper\bin\Debug\netcoreapp3.1\Euromonitor.JWTHelper.pdb
+C:\Projects\Euromonitor.Authentication\Euromonitor.JWTHelper\bin\Debug\netcoreapp3.1\Euromonitor.Models.dll
+C:\Projects\Euromonitor.Authentication\Euromonitor.JWTHelper\bin\Debug\netcoreapp3.1\Euromonitor.Models.pdb
+C:\Projects\Euromonitor.Authentication\Euromonitor.JWTHelper\obj\Debug\netcoreapp3.1\Euromonitor.JWTHelper.csprojAssemblyReference.cache
+C:\Projects\Euromonitor.Authentication\Euromonitor.JWTHelper\obj\Debug\netcoreapp3.1\Euromonitor.JWTHelper.AssemblyInfoInputs.cache
+C:\Projects\Euromonitor.Authentication\Euromonitor.JWTHelper\obj\Debug\netcoreapp3.1\Euromonitor.JWTHelper.AssemblyInfo.cs
+C:\Projects\Euromonitor.Authentication\Euromonitor.JWTHelper\obj\Debug\netcoreapp3.1\Euromonitor.JWTHelper.csproj.CoreCompileInputs.cache
+C:\Projects\Euromonitor.Authentication\Euromonitor.JWTHelper\obj\Debug\netcoreapp3.1\Euromonitor.JWTHelper.csproj.CopyComplete
+C:\Projects\Euromonitor.Authentication\Euromonitor.JWTHelper\obj\Debug\netcoreapp3.1\Euromonitor.JWTHelper.dll
+C:\Projects\Euromonitor.Authentication\Euromonitor.JWTHelper\obj\Debug\netcoreapp3.1\Euromonitor.JWTHelper.pdb

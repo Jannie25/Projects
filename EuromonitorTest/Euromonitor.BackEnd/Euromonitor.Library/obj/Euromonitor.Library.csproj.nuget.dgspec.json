@@ -1,0 +1,421 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Library\\Euromonitor.Library.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.DataHelper\\Euromonitor.DataHelper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.DataHelper\\Euromonitor.DataHelper.csproj",
+        "projectName": "Euromonitor.DataHelper",
+        "projectPath": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.DataHelper\\Euromonitor.DataHelper.csproj",
+        "packagesPath": "C:\\Users\\janni\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.DataHelper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\janni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.JWTHelper\\Euromonitor.JWTHelper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.JWTHelper\\Euromonitor.JWTHelper.csproj",
+        "projectName": "Euromonitor.JWTHelper",
+        "projectPath": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.JWTHelper\\Euromonitor.JWTHelper.csproj",
+        "packagesPath": "C:\\Users\\janni\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.JWTHelper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\janni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Models\\Euromonitor.Models.csproj": {
+                "projectPath": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Models\\Euromonitor.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Library\\Euromonitor.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Library\\Euromonitor.Library.csproj",
+        "projectName": "Euromonitor.Library",
+        "projectPath": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Library\\Euromonitor.Library.csproj",
+        "packagesPath": "C:\\Users\\janni\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\janni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.DataHelper\\Euromonitor.DataHelper.csproj": {
+                "projectPath": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.DataHelper\\Euromonitor.DataHelper.csproj"
+              },
+              "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.JWTHelper\\Euromonitor.JWTHelper.csproj": {
+                "projectPath": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.JWTHelper\\Euromonitor.JWTHelper.csproj"
+              },
+              "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Repository\\Euromonitor.Repository.csproj": {
+                "projectPath": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Repository\\Euromonitor.Repository.csproj"
+              },
+              "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Services\\Euromonitor.Services.csproj": {
+                "projectPath": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Services\\Euromonitor.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.OpenApi": {
+              "target": "Package",
+              "version": "[1.2.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Models\\Euromonitor.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Models\\Euromonitor.Models.csproj",
+        "projectName": "Euromonitor.Models",
+        "projectPath": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Models\\Euromonitor.Models.csproj",
+        "packagesPath": "C:\\Users\\janni\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\janni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Repository\\Euromonitor.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Repository\\Euromonitor.Repository.csproj",
+        "projectName": "Euromonitor.Repository",
+        "projectPath": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Repository\\Euromonitor.Repository.csproj",
+        "packagesPath": "C:\\Users\\janni\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\janni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.DataHelper\\Euromonitor.DataHelper.csproj": {
+                "projectPath": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.DataHelper\\Euromonitor.DataHelper.csproj"
+              },
+              "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Models\\Euromonitor.Models.csproj": {
+                "projectPath": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Models\\Euromonitor.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Services\\Euromonitor.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Services\\Euromonitor.Services.csproj",
+        "projectName": "Euromonitor.Services",
+        "projectPath": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Services\\Euromonitor.Services.csproj",
+        "packagesPath": "C:\\Users\\janni\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\janni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.JWTHelper\\Euromonitor.JWTHelper.csproj": {
+                "projectPath": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.JWTHelper\\Euromonitor.JWTHelper.csproj"
+              },
+              "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Models\\Euromonitor.Models.csproj": {
+                "projectPath": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Models\\Euromonitor.Models.csproj"
+              },
+              "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Repository\\Euromonitor.Repository.csproj": {
+                "projectPath": "C:\\Projects\\Euromonitor.Authentication\\Euromonitor.Repository\\Euromonitor.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

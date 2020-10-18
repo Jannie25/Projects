@@ -1,0 +1,9 @@
+C:\Projects\Euromonitor.Authentication\Euromonitor.Models\bin\Debug\netcoreapp3.1\Euromonitor.Models.deps.json
+C:\Projects\Euromonitor.Authentication\Euromonitor.Models\bin\Debug\netcoreapp3.1\Euromonitor.Models.dll
+C:\Projects\Euromonitor.Authentication\Euromonitor.Models\bin\Debug\netcoreapp3.1\Euromonitor.Models.pdb
+C:\Projects\Euromonitor.Authentication\Euromonitor.Models\obj\Debug\netcoreapp3.1\Euromonitor.Models.AssemblyInfoInputs.cache
+C:\Projects\Euromonitor.Authentication\Euromonitor.Models\obj\Debug\netcoreapp3.1\Euromonitor.Models.AssemblyInfo.cs
+C:\Projects\Euromonitor.Authentication\Euromonitor.Models\obj\Debug\netcoreapp3.1\Euromonitor.Models.csproj.CoreCompileInputs.cache
+C:\Projects\Euromonitor.Authentication\Euromonitor.Models\obj\Debug\netcoreapp3.1\Euromonitor.Models.dll
+C:\Projects\Euromonitor.Authentication\Euromonitor.Models\obj\Debug\netcoreapp3.1\Euromonitor.Models.pdb
+C:\Projects\Euromonitor.Authentication\Euromonitor.Models\obj\Debug\netcoreapp3.1\Euromonitor.Models.csprojAssemblyReference.cache

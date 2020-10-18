@@ -1,0 +1,14 @@
+C:\Projects\Euromonitor.Authentication\Euromonitor.Repository\bin\Debug\netcoreapp3.1\Euromonitor.Repository.deps.json
+C:\Projects\Euromonitor.Authentication\Euromonitor.Repository\bin\Debug\netcoreapp3.1\Euromonitor.Repository.dll
+C:\Projects\Euromonitor.Authentication\Euromonitor.Repository\bin\Debug\netcoreapp3.1\Euromonitor.Repository.pdb
+C:\Projects\Euromonitor.Authentication\Euromonitor.Repository\bin\Debug\netcoreapp3.1\Euromonitor.DataHelper.dll
+C:\Projects\Euromonitor.Authentication\Euromonitor.Repository\bin\Debug\netcoreapp3.1\Euromonitor.Models.dll
+C:\Projects\Euromonitor.Authentication\Euromonitor.Repository\bin\Debug\netcoreapp3.1\Euromonitor.DataHelper.pdb
+C:\Projects\Euromonitor.Authentication\Euromonitor.Repository\bin\Debug\netcoreapp3.1\Euromonitor.Models.pdb
+C:\Projects\Euromonitor.Authentication\Euromonitor.Repository\obj\Debug\netcoreapp3.1\Euromonitor.Repository.csprojAssemblyReference.cache
+C:\Projects\Euromonitor.Authentication\Euromonitor.Repository\obj\Debug\netcoreapp3.1\Euromonitor.Repository.AssemblyInfoInputs.cache
+C:\Projects\Euromonitor.Authentication\Euromonitor.Repository\obj\Debug\netcoreapp3.1\Euromonitor.Repository.AssemblyInfo.cs
+C:\Projects\Euromonitor.Authentication\Euromonitor.Repository\obj\Debug\netcoreapp3.1\Euromonitor.Repository.csproj.CoreCompileInputs.cache
+C:\Projects\Euromonitor.Authentication\Euromonitor.Repository\obj\Debug\netcoreapp3.1\Euromonitor.Repository.csproj.CopyComplete
+C:\Projects\Euromonitor.Authentication\Euromonitor.Repository\obj\Debug\netcoreapp3.1\Euromonitor.Repository.dll
+C:\Projects\Euromonitor.Authentication\Euromonitor.Repository\obj\Debug\netcoreapp3.1\Euromonitor.Repository.pdb
